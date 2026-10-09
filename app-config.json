@@ -1,0 +1,6 @@
+{
+  "minIosVersion": "1.0.0",
+  "premiumMediaQuotaBytes": 262144000,
+  "maxUploadBytes": 52428800,
+  "lapsedRetentionDays": 90
+}
